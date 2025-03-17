@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on some school projects and some small projects<br>🌱 I’m currently learning REACT<br>⚡ I have a small home server with some raspbery pi's and a mac mini were i run my nas on (truenas scale). And I like to tinker with linux.
-🏫 I'm a student a GTI Beveren in Belgium.
+🎓🏫 I'm a student a GTI Beveren in Belgium.
+📚 I'm currently learning nodeJS and REACT
 
 
 # 💻 Tech Stack:
